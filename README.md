@@ -39,11 +39,6 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
 
-## Authors
-
-* **Rajat Dipta Biswas** - *Initial work*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/snake-pygame/graphs/contributors) who participated in this project.
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
